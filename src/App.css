@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#form-container {
+    width: 500px;
+    text-align: center;
+    height: 200px;
+    margin: auto;
+    border: 1px solid #ccc;
+}
+
+ul li {
+    list-style-type: none;
+
+}
+
+#show{
+    width: 500px;
+    text-align: center;
+    height: 200px;
+    margin: auto;
+    border: 1px solid #ccc;
+}
+
